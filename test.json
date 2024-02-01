@@ -1,0 +1,27 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Jaxon's Ores & Tools Addon BP",
+    "description": "This addon was fun to make!!",
+    "uuid": "68822856-788e-488c-b78c-de78748df542",
+    "version": [1, 2, 0],
+    "min_engine_version": [1, 20, 30]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "07775fab-96d2-4cf2-8978-63e82cf4d3e8",
+      "version": [1, 2, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "version": [1, 2, 0],
+      "uuid": "35696ae2-7a14-4a89-9781-b4f2b0a09128"
+    }
+  ],
+  "metadata": {
+    "authors": ["Jaxon"],
+    "url": "https://www.biskit.org"
+  }
+}

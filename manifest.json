@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Jaxon's Ores & Tools Addon RP",
+    "description": "This add-on was fun to make.",
+    "uuid": "35696ae2-7a14-4a89-9781-b4f2b0a09128",
+    "version": [1, 2, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "metadata": {
+    "authors": ["Jaxon"],
+    "url": "https://www.biskit.org"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f55d60f3-b307-4535-be0f-8ca3a8091385",
+      "version": [1, 2, 0]
+    }
+  ]
+}

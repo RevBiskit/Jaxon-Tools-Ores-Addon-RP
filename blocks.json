@@ -1,0 +1,84 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"jax:steel_block": {
+		"textures": "steel_block",
+		"sound": "netherite"
+	},
+	"jax:ruby_ore": {
+		"textures": "ruby_ore",
+		"sound": "stone"
+	},
+	"jax:ruby_deepslate_ore": {
+		"textures": "ruby_deepslate_ore",
+		"sound": "stone"
+	},
+	"jax:sapphire_ore": {
+		"textures": "sapphire_ore",
+		"sound": "stone"
+	},
+	"jax:sapphire_deepslate_ore": {
+		"textures": "sapphire_deepslate_ore",
+		"sound": "stone"
+	},
+	"jax:topaz_ore": {
+		"textures": "topaz_ore",
+		"sound": "stone"
+	},
+	"jax:topaz_deepslate_ore": {
+		"textures": "topaz_deepslate_ore",
+		"sound": "stone"
+	},
+	
+	"jax:uranium_ore": {
+		"textures": "uranium_ore",
+		"sound": "tuff"
+	},
+	"jax:uranium_netherack_ore": {
+		"textures": "uranium_netherack_ore",
+		"sound": "netherrack"
+	},
+	"jax:tin_block": {
+		"textures": "tin_block",
+		"sound": "copper"
+	},
+	"jax:tin_ore": {
+		"textures": "tin_ore",
+		"sound": "stone"
+	},
+	"jax:tungsten_block": {
+		"textures": "tungsten_block",
+		"sound": "copper"
+	},
+	"jax:tungsten_ore": {
+		"textures": "tungsten_ore",
+		"sound": "deepslate"
+	},
+	"jax:titanium_block": {
+		"textures": "titanium_block",
+		"sound": "copper"
+	},
+	"jax:titanium_ore": {
+		"textures": "titanium_ore",
+		"sound": "deepslate"
+	},
+	"jax:onyx_ore": {
+		"textures": "onyx_ore",
+		"sound": "deepslate"
+	},
+	"jax:onyx_netherack_ore": {
+		"textures": "onyx_netherack_ore",
+		"sound": "netherrack"
+	},
+	"jax:onyx_block": {
+		"textures": "onyx_block",
+		"sound": "stone"
+	},
+	"jax:bronze_block": {
+		"textures": "bronze_block",
+		"sound": "lantern"
+	}
+}
